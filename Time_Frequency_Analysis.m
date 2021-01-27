@@ -1,6 +1,7 @@
 clear all; close all; clc
 
 %% Part 1 Averaging the Spectrum and Finding Frequency Signature
+
 load subdata.mat % Imports the data as the 262144x49 (space by time) matrix called subdata
 
 L = 10; % spatial domain
