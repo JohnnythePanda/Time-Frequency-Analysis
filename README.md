@@ -1,4 +1,4 @@
-# Amath_482_HW_1
+# Time Frequency Analysis
 We performed time-frequency analysis on noisy acoustic data from the Puget Sound to detect a
 moving submarine emitting an unknown frequency with algorithms emphasizing the Fourier Transform.
 We analyzed the data by averaging the spectrum of raw acoustic data which allows us to identify it’s
